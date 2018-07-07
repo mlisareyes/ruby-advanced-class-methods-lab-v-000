@@ -41,7 +41,6 @@ class Song
   end
 
   def self.new_from_filename(filename)
-    self.name.split
   end
 
   def self.create_from_filename(filename)
